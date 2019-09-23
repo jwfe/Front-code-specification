@@ -8,6 +8,5 @@
 
 vue、react 的项目中，components下的组件目录名，使用大驼峰命令
 
-例：`LeftBar`  
-
+例：`LeftBar`
 
